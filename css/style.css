@@ -1,0 +1,25 @@
+.header{
+    width: 100%;
+    height: 150px;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+   
+}
+.mitten{
+    float:left;
+    margin: 50px;
+    
+   
+   
+}
+.headerimg{
+    width: 1440px;
+
+}
+.hundsize{
+    height: 200px;
+    
+
+}
